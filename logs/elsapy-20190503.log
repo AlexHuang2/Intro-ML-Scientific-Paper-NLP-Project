@@ -1,0 +1,111 @@
+2019-05-03 18:47:35,242 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 18:47:35,244 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 18:47:35,244 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 18:47:35,245 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 18:47:35,247 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 18:48:38,839 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 18:48:39,307 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 18:48:40,311 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 18:48:41,179 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 18:48:41,181 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 18:48:42,179 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 18:48:42,762 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 18:48:42,764 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 18:55:04,416 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0006295215003585
+2019-05-03 18:55:05,166 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0006295215003585
+2019-05-03 18:55:05,183 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0006295215003585 to file
+2019-05-03 18:57:06,663 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 18:57:07,438 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 18:57:07,457 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file
+2019-05-03 19:17:28,268 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 19:17:28,270 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 19:17:28,271 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 19:17:28,273 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 19:17:28,274 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 19:17:29,270 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 19:17:29,671 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 19:17:30,676 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:17:31,157 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:17:31,161 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 19:17:32,162 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:17:32,694 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:17:32,697 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 19:17:43,282 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:17:43,813 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:17:43,815 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file
+2019-05-03 19:26:10,361 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 19:26:10,364 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 19:26:10,365 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 19:26:10,366 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 19:26:10,367 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 19:26:11,362 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 19:26:11,698 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 19:26:12,698 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:26:13,105 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:26:13,108 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 19:26:14,105 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:26:14,621 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:26:14,623 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 19:37:24,125 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 19:37:24,127 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 19:37:24,128 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 19:37:24,130 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 19:37:24,131 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 19:37:25,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 19:37:25,459 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 19:37:26,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:37:27,013 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:37:27,015 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 19:37:28,015 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:37:28,576 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:37:28,579 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 19:38:54,447 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 19:38:54,449 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 19:38:54,449 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 19:38:54,451 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 19:38:54,452 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 19:38:55,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 19:38:55,757 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 19:38:56,760 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:38:57,122 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:38:57,124 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 19:38:58,123 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:38:58,608 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:38:58,610 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 19:42:34,171 - elsapy.elsclient - INFO - Module loaded.
+2019-05-03 19:42:34,173 - elsapy.elsentity - INFO - Module loaded.
+2019-05-03 19:42:34,174 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-03 19:42:34,175 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-03 19:42:34,176 - elsapy.elssearch - INFO - Module loaded.
+2019-05-03 19:42:35,172 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-03 19:42:35,594 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'fae86c78f866ef3318ae407263170e41', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2019-05-03 19:42:36,596 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:42:37,073 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-03 19:42:37,075 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-03 19:42:38,073 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:42:38,694 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-03 19:42:38,696 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-03 19:52:07,344 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:08,204 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:08,229 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file
+2019-05-03 19:52:16,353 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:17,008 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:17,012 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file
+2019-05-03 19:52:41,414 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:41,961 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:41,967 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file
+2019-05-03 19:52:55,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:56,444 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S089054010700123X
+2019-05-03 19:52:56,446 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S089054010700123X to file

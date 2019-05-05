@@ -1,0 +1,16 @@
+2019-05-02 19:06:09,411 - elsapy.elsclient - INFO - Module loaded.
+2019-05-02 19:06:09,417 - elsapy.elsentity - INFO - Module loaded.
+2019-05-02 19:06:09,418 - elsapy.elsprofile - INFO - Module loaded.
+2019-05-02 19:06:09,420 - elsapy.elsdoc - INFO - Module loaded.
+2019-05-02 19:06:09,423 - elsapy.elssearch - INFO - Module loaded.
+2019-05-02 19:15:51,283 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-02 19:15:52,018 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004367821
+2019-05-02 19:15:52,045 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/7004367821 to file
+2019-05-02 19:15:53,011 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-02 19:15:54,006 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/84872135457
+2019-05-02 19:15:54,039 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/abstract/scopus_id/84872135457 to file
+2019-05-02 19:15:55,002 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-02 19:15:55,554 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-02 19:15:55,568 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1674927814000082 to file
+2019-05-02 19:20:59,424 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1674927814000082
+2019-05-02 19:21:00,126 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1674927814000082
